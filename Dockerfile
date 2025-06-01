@@ -16,4 +16,4 @@ RUN npm install
 EXPOSE 3001
 
 # Start the application
-CMD ["npm", "start"]
+CMD npm start
